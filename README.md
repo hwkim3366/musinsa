@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Url Encoding 과제</h1>
+<h1>Url Encoding 과제 </h1>
 </div>
 
 ## 1.설치
